@@ -4,9 +4,9 @@ What is this?
 =============
 This is a simple Python script that contacts the [Lexaloffle PICO-8 BBS form](https://www.lexaloffle.com/bbs/?cat=7) and downloads PICO-8 cartridges in order of most recent activity.
 
-What is Pico-8?
+What is PICO-8?
 ===============
-PICO-8 is a fantasy console by [Lexaloffle Games](https://pico-8.fandom.com/wiki/LexaloffleGames). See the [PIOC-8 about section](https://www.lexaloffle.com/pico-8.php#m) for more information.
+PICO-8 is a fantasy console by [Lexaloffle Games](https://pico-8.fandom.com/wiki/LexaloffleGames). See the [PICO-8 about section](https://www.lexaloffle.com/pico-8.php#m) for more information.
 
 References and Credit
 =====================
