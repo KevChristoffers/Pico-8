@@ -1,5 +1,7 @@
 # Pico-8
 
+> :warning: MOVED TO https://github.com/KevChristoffers/scripts/tree/trunk/python/pico8
+
 What is this?
 =============
 This is a simple Python script that contacts the [Lexaloffle PICO-8 BBS form](https://www.lexaloffle.com/bbs/?cat=7) and downloads PICO-8 cartridges in order of most recent activity.
